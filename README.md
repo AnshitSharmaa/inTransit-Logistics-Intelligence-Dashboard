@@ -35,7 +35,7 @@ The dashboard is based on real logistics market research conducted across Chandi
 
 Provides a high-level summary of drivers, customers, deliveries, and market opportunities.
 
-![Executive Overview](Screenshots\Executive Overview.png)
+![Executive Overview](Screenshots/Executive Overview.png)
 
 ---
 
@@ -43,7 +43,7 @@ Provides a high-level summary of drivers, customers, deliveries, and market oppo
 
 Analyzes driver distribution, acquisition channels, operational clusters, and eagerness scores.
 
-![Driver Intelligence](Screenshots\Driver Intelligence.png)
+![Driver Intelligence](Screenshots/Driver Intelligence.png)
 
 ---
 
@@ -51,7 +51,7 @@ Analyzes driver distribution, acquisition channels, operational clusters, and ea
 
 Identifies customer segments, industry concentration, geographic clusters, and customer pain points.
 
-![Customer Intelligence](Screenshots\Customer Intelligence.png)
+![Customer Intelligence](Screenshots/Customer Intelligence.png)
 
 ---
 
@@ -59,7 +59,7 @@ Identifies customer segments, industry concentration, geographic clusters, and c
 
 Tracks deliveries, GMV, platform revenue, and operational performance.
 
-![Operations Intelligence](Screenshots\Operations Intelligence.png)
+![Operations Intelligence](Screenshots/Operations Intelligence.png)
 
 ---
 
